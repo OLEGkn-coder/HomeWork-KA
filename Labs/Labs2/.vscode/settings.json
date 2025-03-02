@@ -1,0 +1,12 @@
+{
+  "masmtasm.ASM.emulator": "dosbox-x",
+  "editor.tabSize": 1,
+   "editor.insertSpaces": true,
+
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+    "editor.inlineSuggest.enabled": true,
+  "editor.cursorBlinking": "smooth",
+  "files.autoSave": "afterDelay",
+}      
